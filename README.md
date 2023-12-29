@@ -1,5 +1,13 @@
 # Codeforces Tool
 
+---
+**This project archieved due to codeforces protected by cloudflare, I am trying to finish a new tool to help generate code and test cases from codeforces.**
+
+**New project link [ccs](https://github.com/dianhsu-official/ccs)**
+
+---
+
+
 [![Github release](https://img.shields.io/github/release/dianhsu/cf-tool.svg)](https://github.com/dianhsu/cf-tool/releases)
 [![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](https://github.com/dianhsu/cf-tool/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/xalanq/cf-tool)](https://goreportcard.com/report/github.com/xalanq/cf-tool)
